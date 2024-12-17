@@ -104,7 +104,6 @@ Make sure to install these packages using `pip install` before running the noteb
 3. **Real-Time Gesture Recognition**:
    - Use the real-time prediction section to capture gestures and classify them.
 
-
 ---
 
 ## Outputs
@@ -114,6 +113,24 @@ Make sure to install these packages using `pip install` before running the noteb
 - **Real-Time Predictions**:
   - Shows recognized gestures for KNN, SVM, LSTM, GRU, and ensemble prediction.
   - Calculates average recognition time for each model.
+
+---
+## Results
+### Below are the results from our project in real time prediction
+### Alphabet_B
+![My Image](Results/Alphabet_B.png)
+
+### Alphabet_C
+![My Image](Results/Alphabet_c.png)
+
+### Call
+![My Image](Results/Call.png)
+
+### Love
+![My Image](Results/Love.png)
+
+### Peace
+![My Image](Results/Peace.png)
 
 ---
 
